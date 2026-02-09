@@ -33,4 +33,3 @@ Every operand has a span added around it self with different classnames.
 
 `string`, `boolean`, `number` or `null`.
 
-
