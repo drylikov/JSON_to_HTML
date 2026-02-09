@@ -4,12 +4,12 @@ Convert JSON Object to HTML.
 
 ## Installation
 
-	npm install json-to-html
+	npm install json_to_html
 
 ## Usage
 
 ```javascript	
-var json2html = require('json-to-html')
+var json2html = require('json_to_html')
   , html = json2html({ 'hello': 'world' });
 
 console.log(html);
