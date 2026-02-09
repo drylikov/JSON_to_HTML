@@ -37,4 +37,3 @@ Every operand has a span added around it self with different classnames.
 
 
 
-
