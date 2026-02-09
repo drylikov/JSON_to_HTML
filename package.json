@@ -1,0 +1,19 @@
+
+{
+  "name": "json-to-html",
+  "version": "0.1.2",
+  "description": "Convert JSON Object to HTML",
+  "keywords": [],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/json-to-html.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index",
+  "license": "MIT"
+}
