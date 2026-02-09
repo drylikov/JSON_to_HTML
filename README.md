@@ -1,6 +1,6 @@
 # JSON to HTML
 
-Convert JSON Object to HTML.
+Convert JSON Object to HTML .
 
 ## Installation
 
