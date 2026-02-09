@@ -1,5 +1,4 @@
-
-# json-to-html
+# JSON to HTML
 
 Convert JSON Object to HTML.
 
